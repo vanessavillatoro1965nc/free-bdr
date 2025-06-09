@@ -4,4 +4,6 @@ messages:
   - role: user
     content: ''
 testData: []
-evaluators: []
+evaluators:
+  - name: Similarity
+    uses: github/similarity
