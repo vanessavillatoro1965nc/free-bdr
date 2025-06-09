@@ -1,0 +1,8 @@
+messages:
+  - role: system
+    content: >-
+      [![.github/workflows/main.yml](https://github.com/vanessavillatoro1965nc/Freerdpv/actions/workflows/main.yml/badge.svg?event=create)](https://github.com/vanessavillatoro1965nc/Freerdpv/actions/workflows/main.yml)
+  - role: user
+    content: >-
+      [![.github/workflows/main.yml](https://github.com/vanessavillatoro1965nc/Freerdpv/actions/workflows/main.yml/badge.svg?event=create)](https://github.com/vanessavillatoro1965nc/Freerdpv/actions/workflows/main.yml)
+model: microsoft/phi-3.5-moe-instruct
